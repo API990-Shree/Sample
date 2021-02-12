@@ -25,5 +25,5 @@ git push origin master
 git remote add origin <http-path>
 
 git pull origin master
-
+-> gets the changes from the remote directory to the local repo
 git fetch origin master
