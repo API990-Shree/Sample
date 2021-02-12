@@ -1,0 +1,22 @@
+git init
+-> to be able to create repo
+git config --global user.name "Shreeniwas Deshpande"
+-> to set username
+git config --global user.email "shreeniwas.deshpande@apisero.com"
+-> to set email
+git add <file name>
+
+git commit -m "Message"
+
+git log
+
+git status
+
+git tag --a v1.0 -m "first tag, second commit"
+
+git rm --cached <filename>
+-> to delete the file from repo
+git rm -f <filename>
+-> to delete from repo and working directory
+git rm <filename>
+-> to delete from working directory
