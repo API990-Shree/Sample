@@ -29,3 +29,11 @@ git pull origin master
 -> to get the update the text from remote directory to working directory
 git fetch origin master
 -> to update the files in local repo from remote directory
+git branch <branch name>
+-> branch is created
+git checkout <branch name>
+-> going to the branch
+git checkout -b <branch name>
+-> creating and going to the branch at the same time
+git push origin <branch name>
+-> pushes the code in the branch
