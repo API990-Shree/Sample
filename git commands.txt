@@ -20,3 +20,10 @@ git rm -f <filename>
 -> to delete from repo and working directory
 git rm <filename>
 -> to delete from working directory
+git push origin master
+
+git remote add origin <http-path>
+
+git pull origin master
+
+git fetch origin master
