@@ -4,6 +4,7 @@ git config --global user.name "Shreeniwas Deshpande"
 -> to set username
 git config --global user.email "shreeniwas.deshpande@apisero.com"
 -> to set email
+In branch - 1
 git add <file name>
 
 git commit -m "Message"
@@ -25,5 +26,6 @@ git push origin master
 git remote add origin <http-path>
 
 git pull origin master
-
+-> to get the update the text from remote directory to working directory
 git fetch origin master
+-> to update the files in local repo from remote directory
